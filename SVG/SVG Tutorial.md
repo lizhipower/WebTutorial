@@ -28,7 +28,7 @@ Scalable Vector Graphics, SVG, is a W3C XML dialect to mark up graphics. It is p
               style="fill:rgb(0,0,255);"></rect>
     </svg>
 
-in HTML you will get a [recangle](.\svgTutorial.svg).
+in HTML you will get a [recangle](./svgTutorial.svg).
 
 ##SVG and HTML
 
