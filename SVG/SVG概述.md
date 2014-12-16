@@ -16,16 +16,6 @@ Scalable Vector Graphics, SVG, is a W3C XML dialect to mark up graphics. It is p
 * SVG 是万维网联盟的标准
 * SVG 与诸如 DOM 和 XSL 之类的 W3C 标准是一个整体
 
-##Intruction
-
-* **矩形 `<rect>`**
-* **圆形 `<circle>`**
-* 椭圆 `<ellipse>`
-* 线 `<line>`
-* 折线 `<polyline>`
-* 多边形 `<polygon>`
-* **路径 `<path>`**
-
 ##Demo
 
     <svg>
